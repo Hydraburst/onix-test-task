@@ -1,0 +1,8 @@
+.item-worker__wrap{
+    display: grid;
+    grid-template-columns: 6.25rem 6.25rem 6.25rem 6.25rem 6.25rem 6.25rem;
+    text-align: center;
+    /* display: flex;
+    gap: 1rem;
+    justify-content: space-between; */
+}

@@ -1,0 +1,16 @@
+.tabs__wrap {
+  /* display: flex;
+  gap: 2rem; */
+  display: grid;
+  text-align: center;
+  grid-template-columns: 6.25rem 6.25rem 6.25rem 6.25rem 6.25rem 6.25rem;
+}
+
+.active {
+  background-color: #118ab2;
+  color: #fff;
+}
+.tab-item {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
